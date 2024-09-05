@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://nl.pinterest.com/
+  https://www.bershka.com/nl/h-woman.html
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Overzichtspagina pinterest  
-  <img src="readme-images/Pinterest-1.png" width="375px" alt="overzichtspagina van pinterest">
+  Homepage van de Bershka site  
+  <img src="readme-images/IMG_0638.PNG" width="375px" alt="Homepage">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Detail pagina pinterest
-  <img src="readme-images/Pinterest-2.png" width="375px" alt="detailpagina van pinterest">
+  <img src="readme-images/IMG_0639.PNG" width="375px" alt="Deta">
  
 </details>
 
@@ -57,6 +57,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  Ik heb als eerst een test gedaan met de screenreader. Het begin verliep niet super goed, want ik snapte de controls en hoe het werkte niet helemaal. Na een tijdje oefenen lukte het redelijk. Iets wat mij was opgevallen was dat als je de vrouwenkleding selecteerde, kwam er een dropdown met verschillende kleding items. Met de screenreader kon ik alleen de bovenste drie links lezen en niet de rest. Na de eerste drie ging de screenreader meteen door naar het volgende lijstje. Hiernaast heb ik het ook getest met een bril die ervoor zorgt dat je beeld wazig wordt, net als iemand die een bril of lenzen heeft. Dit maakte het veel lastiger om de tekst te lezen. Voor al de kleine tekst kon ik amper lezen. 
+  De website veranderde niet als je dark&light mode instelde, maar wel als je de kleur verandert voor mensen met kleurenblindheid. 
+
 
 </details>
 
