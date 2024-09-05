@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepage van de Bershka site  
-  <img src="readme-images/IMG_0638.PNG" width="375px" alt="Homepage">
+  <img src="readme-images/Screenshot 2024-09-05 at 23.55.19.png" width="375px" alt="Homepage">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Detail pagina pinterest
-  <img src="readme-images/IMG_0639.PNG" width="375px" alt="Deta">
+  <img src="readme-images/Screenshot 2024-09-05 at 23.55.42.png" width="375px" alt="Detailpagina">
  
 </details>
 
