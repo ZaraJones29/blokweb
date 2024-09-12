@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.bershka.com/nl/h-woman.html
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Homepage van de Bershka site  
+  Homepage van de Bershka site.
   <img src="readme-images/Screenshot 2024-09-05 at 23.55.19.png" width="375px" alt="Homepage">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Detail pagina pinterest
+  Detail pagina van de Bershka site.
   <img src="readme-images/Screenshot 2024-09-05 at 23.55.42.png" width="375px" alt="Detailpagina">
  
 </details>
@@ -59,8 +59,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
   Ik heb als eerst een test gedaan met de screenreader. Het begin verliep niet super goed, want ik snapte de controls en hoe het werkte niet helemaal. Na een tijdje oefenen lukte het redelijk. Iets wat mij was opgevallen was dat als je de vrouwenkleding selecteerde, kwam er een dropdown met verschillende kleding items. Met de screenreader kon ik alleen de bovenste drie links lezen en niet de rest. Na de eerste drie ging de screenreader meteen door naar het volgende lijstje. Hiernaast heb ik het ook getest met een bril die ervoor zorgt dat je beeld wazig wordt, net als iemand die een bril of lenzen heeft. Dit maakte het veel lastiger om de tekst te lezen. Voor al de kleine tekst kon ik amper lezen. 
   De website veranderde niet als je dark&light mode instelde, maar wel als je de kleur verandert voor mensen met kleurenblindheid. 
-
-
 </details>
 
 
@@ -77,7 +75,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px">
 
 </details>
 
@@ -91,17 +89,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  <img src="readme-images/Screenshot 2024-09-12 at 15.42.23.png" width="375px">
+  Deze flex-box werkte niet.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Zara           | Tessa              |Kanokphon     |Joanna            |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Hoe werkt een  |                    |              |                  |
+  | carrousel?     |                    |              |                  |
+  |                |                    |              |                  |
 
 
   ### Verslag van meeting
@@ -232,8 +231,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://www.bershka.com/nl/h-woman.html (De website die ik heb nagemaakt, hier heb ik de plaatsen uit gebruikt en de fonts)
 
 </details>

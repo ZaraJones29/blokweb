@@ -5,21 +5,9 @@
   box-sizing:border-box;  
 }
 
-
-
-
-
-
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
-:root {
-	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
-}
-
-
 
 
 
@@ -27,5 +15,90 @@
 /* JOUW STYLING */
 /****************/
 
-/* jouw code */
+@font-face {
+	font-family: 'ABCWhyte-bold';
+	src: url('fonts/ABCWhyte-Bold.woff2') format('woff2');
+	font-weight: bold;
+}
 
+@font-face {
+	font-family:'ABCWhyte-regular';
+	src: url('fonts/ABCWhyte-Regular.woff2') format('woff2');
+	font-weight: lighter;
+}
+
+@font-face {
+	font-family: 'ABCWhyte-light';
+	src: url('fonts/ABCWhyte-Light.woff2') format('woff2');
+	font-weight: lighter;
+}
+
+body {
+	margin: 0;
+}
+
+header h1 {
+	font-family: 'ABCWhyte-bold';
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 1.5em;
+}
+
+header img {
+	width: 30px;
+	height: 35px;
+	display: flex;
+	flex-direction: row;
+}
+
+main {
+	font-family: 'ABCWhyte-regular';
+	font-weight: bold;
+}
+
+main h2 {
+	font-family: 'ABCWhyte-light';
+	text-align: center;
+}
+
+main h3 {
+	font-family: 'ABCWhyte-light';
+	text-align: center;
+}
+
+footer {
+	background-color: black;
+	color: white;
+}
+
+p {
+	margin: 1em;
+}
+
+#basics-foto {
+	max-width: 100%;
+}
+
+.section-ga-naar {
+	width: 21em;
+	margin: 1em;
+}
+
+.kleding {
+	width: 150px;
+	height: 190px;
+}
+
+.outfits {
+	width: 165px;
+	height: 206px;
+}
+
+.prijs {
+	font-family: 'ABCWhyte-bold';
+	font-weight: bold;
+}
+
+.items {
+	width: 14em;
+}
